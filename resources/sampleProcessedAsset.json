@@ -1,0 +1,226 @@
+{
+  "type": "obj",
+  "name": "pyramid.obj",
+  "data": "# OBJ file created by ply_to_obj.c\n#\ng Object001\n\nv 0 0 0\nv 1 0 0\nv 1 1 0\nv 0 1 0\nv 0.5 0.5 1.6\n\nf 5 2 3\nf 4 5 3\nf 6 3 2\nf 5 6 2\nf 4 6 5\nf 6 4 3\n",
+  "processedData": {
+    "vertices": [
+      [0, 0, 0],
+      [1, 0, 0],
+      [1, 1, 0],
+      [0, 1, 0],
+      [0.5, 0.5, 1.6]
+    ],
+    "normals": [],
+    "UVs": [],
+    "faces": [{
+      "a": {
+        "v": 4,
+        "vt": null,
+        "vn": null
+      },
+      "b": {
+        "v": 1,
+        "vt": null,
+        "vn": null
+      },
+      "c": {
+        "v": 2,
+        "vt": null,
+        "vn": null
+      },
+      "mi": null
+    }, {
+      "a": {
+        "v": 3,
+        "vt": null,
+        "vn": null
+      },
+      "b": {
+        "v": 4,
+        "vt": null,
+        "vn": null
+      },
+      "c": {
+        "v": 2,
+        "vt": null,
+        "vn": null
+      },
+      "mi": null
+    }, {
+      "a": {
+        "v": 5,
+        "vt": null,
+        "vn": null
+      },
+      "b": {
+        "v": 2,
+        "vt": null,
+        "vn": null
+      },
+      "c": {
+        "v": 1,
+        "vt": null,
+        "vn": null
+      },
+      "mi": null
+    }, {
+      "a": {
+        "v": 4,
+        "vt": null,
+        "vn": null
+      },
+      "b": {
+        "v": 5,
+        "vt": null,
+        "vn": null
+      },
+      "c": {
+        "v": 1,
+        "vt": null,
+        "vn": null
+      },
+      "mi": null
+    }, {
+      "a": {
+        "v": 3,
+        "vt": null,
+        "vn": null
+      },
+      "b": {
+        "v": 5,
+        "vt": null,
+        "vn": null
+      },
+      "c": {
+        "v": 4,
+        "vt": null,
+        "vn": null
+      },
+      "mi": null
+    }, {
+      "a": {
+        "v": 5,
+        "vt": null,
+        "vn": null
+      },
+      "b": {
+        "v": 3,
+        "vt": null,
+        "vn": null
+      },
+      "c": {
+        "v": 2,
+        "vt": null,
+        "vn": null
+      },
+      "mi": null
+    }],
+    "groups": {
+      "Object001": [{
+        "a": {
+          "v": 4,
+          "vt": null,
+          "vn": null
+        },
+        "b": {
+          "v": 1,
+          "vt": null,
+          "vn": null
+        },
+        "c": {
+          "v": 2,
+          "vt": null,
+          "vn": null
+        },
+        "mi": null
+      }, {
+        "a": {
+          "v": 3,
+          "vt": null,
+          "vn": null
+        },
+        "b": {
+          "v": 4,
+          "vt": null,
+          "vn": null
+        },
+        "c": {
+          "v": 2,
+          "vt": null,
+          "vn": null
+        },
+        "mi": null
+      }, {
+        "a": {
+          "v": 5,
+          "vt": null,
+          "vn": null
+        },
+        "b": {
+          "v": 2,
+          "vt": null,
+          "vn": null
+        },
+        "c": {
+          "v": 1,
+          "vt": null,
+          "vn": null
+        },
+        "mi": null
+      }, {
+        "a": {
+          "v": 4,
+          "vt": null,
+          "vn": null
+        },
+        "b": {
+          "v": 5,
+          "vt": null,
+          "vn": null
+        },
+        "c": {
+          "v": 1,
+          "vt": null,
+          "vn": null
+        },
+        "mi": null
+      }, {
+        "a": {
+          "v": 3,
+          "vt": null,
+          "vn": null
+        },
+        "b": {
+          "v": 5,
+          "vt": null,
+          "vn": null
+        },
+        "c": {
+          "v": 4,
+          "vt": null,
+          "vn": null
+        },
+        "mi": null
+      }, {
+        "a": {
+          "v": 5,
+          "vt": null,
+          "vn": null
+        },
+        "b": {
+          "v": 3,
+          "vt": null,
+          "vn": null
+        },
+        "c": {
+          "v": 2,
+          "vt": null,
+          "vn": null
+        },
+        "mi": null
+      }]
+    },
+    "materials": [],
+    "mtllibs": []
+  }
+}

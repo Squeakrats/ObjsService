@@ -1,0 +1,13 @@
+Bugs
+    A Doesn't work on Olan's Mac
+    A Firefox outline on panel is incorrect
+    A Converstion-Table / Library transition is jarring/funky
+
+Features
+    A Add filesize to images
+    A Add click-to-copy for B64 data
+    Y Improve loading experience with WebWorkers
+    Y Improve stage visuals 
+
+*Done*
+    A Library overflows when too many items are added 
